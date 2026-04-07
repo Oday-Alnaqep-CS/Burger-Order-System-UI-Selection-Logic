@@ -14,3 +14,22 @@ An advanced **C# WinForms** application designed with a multi-page architecture 
 
 ---
 Developed by **Dev. Oday Al-Naqep**
+
+
+
+# 🍕 Burger & Pizza Order System (Multi-Form)
+An intuitive **C# WinForms** application designed with a dual-page architecture to handle diverse food orders efficiently.
+
+## 🚀 Key Highlights
+- **Two-Page Architecture:** Dedicated interfaces for Burger and Pizza to prevent UI clutter.
+- **Dynamic Pricing Engine:** Independent logic for each category (Sides, Toppings, and Sizes).
+- **Smooth Navigation:** User-friendly buttons to switch between menus without losing data.
+- **Order Confirmation:** Consolidates choices from both pages into a final readable summary.
+
+## 🛠️ Technical Details
+- **Language:** C#
+- **Platform:** .NET Framework (WinForms)
+- **Concepts:** Event-handling, Form Switching, and String Manipulation for receipts.
+
+---
+Developed by **Dev. Oday Al-Naqep**
