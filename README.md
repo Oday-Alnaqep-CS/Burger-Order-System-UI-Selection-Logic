@@ -19,6 +19,8 @@ An advanced **C# WinForms** application designed with a multi-page architecture 
 - **Platform:** .NET Framework (WinForms)
 - **Concepts:** Event-handling, Form Switching, and String Manipulation for receipts.
 
+- **Developed following clean code principles and structured programming
+- **logic learned through intensive C++ software engineering tracks.
 ---
 Developed by **Dev. Oday Al-Naqep**
 
