@@ -1,4 +1,4 @@
-# 🍕🍔 Multi-Category Food Ordering System
+# 🍕🍔 Burger & Pizza Order System (Multi-Form)
 An advanced **C# WinForms** application designed with a multi-page architecture to handle different food categories (Burger & Pizza) seamlessly.
 
 ## 🚀 What's Inside?
@@ -13,18 +13,6 @@ An advanced **C# WinForms** application designed with a multi-page architecture 
 - **UI/UX:** User-centric design with intuitive navigation buttons.
 
 ---
-Developed by **Dev. Oday Al-Naqep**
-
-
-
-# 🍕 Burger & Pizza Order System (Multi-Form)
-An intuitive **C# WinForms** application designed with a dual-page architecture to handle diverse food orders efficiently.
-
-## 🚀 Key Highlights
-- **Two-Page Architecture:** Dedicated interfaces for Burger and Pizza to prevent UI clutter.
-- **Dynamic Pricing Engine:** Independent logic for each category (Sides, Toppings, and Sizes).
-- **Smooth Navigation:** User-friendly buttons to switch between menus without losing data.
-- **Order Confirmation:** Consolidates choices from both pages into a final readable summary.
 
 ## 🛠️ Technical Details
 - **Language:** C#
@@ -33,3 +21,4 @@ An intuitive **C# WinForms** application designed with a dual-page architecture 
 
 ---
 Developed by **Dev. Oday Al-Naqep**
+
